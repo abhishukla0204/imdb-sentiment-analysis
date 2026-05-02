@@ -121,6 +121,4 @@ The notebook generates 4 visualisation sets:
 1. L. Maas, R. Daly, P. Pham, D. Huang, A. Ng, and C. Potts, "Learning Word Vectors for Sentiment Analysis," in *Proc. 49th Annual Meeting of the ACL*, 2011, pp. 142–150.
 2. F. Pedregosa *et al.*, "Scikit-learn: Machine Learning in Python," *JMLR*, vol. 12, pp. 2825–2830, 2011.
 
----
-
 
