@@ -1,13 +1,10 @@
-# IMDB Sentiment Analysis — Text Mining Case Study
-
-> **CS-702: Data Mining** | B.Tech 3rd Year (CSE) | Academic Year 2025–26  
-> Indian Institute of Information Technology, Bhagalpur
+# IMDB Sentiment Analysis
 
 Sentiment classification of IMDB movie reviews using **Multinomial Naïve Bayes** and **Linear SVM** with TF-IDF features.
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 Given a free-form English movie review from IMDB, predict whether the expressed sentiment is **positive** or **negative**.
 
@@ -15,7 +12,7 @@ This is a **supervised binary classification** problem in the **Text Mining** do
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Property | Detail |
 |---|---|
@@ -40,7 +37,7 @@ This is a **supervised binary classification** problem in the **Text Mining** do
 
 ---
 
-## 🤖 Models & Results
+## Models & Results
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |---|---|---|---|---|---|
@@ -53,20 +50,19 @@ This is a **supervised binary classification** problem in the **Text Mining** do
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
 ├── IMDB_Sentiment_Analysis.ipynb   # Main notebook (code + results)
 ├── IMDB Dataset.csv                # Dataset (50K reviews)
 ├── requirements.txt                # Python dependencies
-├── Data_Mining__Case_Study.pdf     # Final compiled report
 └── README.md                       # This file
 ```
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the repository
 ```bash
@@ -99,7 +95,7 @@ Run all cells sequentially. The notebook will:
 
 ---
 
-## 📈 Visualisations
+## Visualisations
 
 The notebook generates 4 visualisation sets:
 - **EDA plots** — class distribution, review length histogram, word count box-plots
@@ -120,15 +116,14 @@ The notebook generates 4 visualisation sets:
 
 ---
 
-## 📝 References
+## References
 
 1. L. Maas, R. Daly, P. Pham, D. Huang, A. Ng, and C. Potts, "Learning Word Vectors for Sentiment Analysis," in *Proc. 49th Annual Meeting of the ACL*, 2011, pp. 142–150.
 2. F. Pedregosa *et al.*, "Scikit-learn: Machine Learning in Python," *JMLR*, vol. 12, pp. 2825–2830, 2011.
 
 ---
 
-## 👤 Author
+## Author
 
 **Abhinav Shukla**  
-Roll No. 230101002 | CSE, IIIT Bhagalpur  
-Instructor: Dr. Mehul Kumar
+
